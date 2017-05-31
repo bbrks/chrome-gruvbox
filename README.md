@@ -1,4 +1,4 @@
-# gruvbox-chrome-theme
+# chrome-gruvbox
 Port of the gruvbox retro groove color scheme for Chrome
 
 The original Vim theme can be found here: https://github.com/morhetz/gruvbox
